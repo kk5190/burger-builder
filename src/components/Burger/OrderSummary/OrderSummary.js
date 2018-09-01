@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Wrapper from '../../../HOC/Wrapper'
+import Wrapper from '../../../HOC/Wrapper/Wrapper'
 import Button from '../../UI/Button/Button';
 
 const OrderSummary = (props) => {
